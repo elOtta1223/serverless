@@ -67,7 +67,7 @@
     "aws-sdk": "^2.3.17",
     "bluebird": "^3.4.0",
     "chalk": "^1.1.1",
-    "download": "^5.0.2",
+    "download": "^6.1.0",
     "fs-extra": "^0.26.7",
     "glob": "^7.0.6",
     "https-proxy-agent": "^1.0.0",
