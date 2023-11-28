@@ -70,7 +70,7 @@
     "download": "^5.0.2",
     "fs-extra": "^0.26.7",
     "glob": "^7.0.6",
-    "https-proxy-agent": "^1.0.0",
+    "https-proxy-agent": "^2.2.3",
     "js-yaml": "^3.6.1",
     "json-refs": "^2.1.5",
     "lodash": "^4.13.1",
@@ -78,7 +78,7 @@
     "moment": "^2.13.0",
     "node-fetch": "^1.5.3",
     "replaceall": "^0.1.6",
-    "semver-regex": "^1.0.0",
+    "semver-regex": "^3.1.4",
     "shelljs": "^0.6.0",
     "traverse": "^0.6.6",
     "uuid": "^2.0.2"
